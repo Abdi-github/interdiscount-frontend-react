@@ -1,0 +1,19 @@
+{
+  "title": "Benachrichtigungen",
+  "mark_all_read": "Alle als gelesen markieren",
+  "filter": {
+    "all": "Alle",
+    "unread": "Ungelesen",
+    "read": "Gelesen"
+  },
+  "empty": {
+    "title": "Keine Benachrichtigungen",
+    "subtitle": "Hier werden Ihre Benachrichtigungen angezeigt"
+  },
+  "time": {
+    "just_now": "Gerade eben",
+    "minutes_ago": "Vor {{count}} Min.",
+    "hours_ago": "Vor {{count}} Std.",
+    "days_ago": "Vor {{count}} Tagen"
+  }
+}

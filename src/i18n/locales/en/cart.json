@@ -1,0 +1,24 @@
+{
+  "title": "Shopping cart",
+  "empty": {
+    "title": "Your cart is empty",
+    "subtitle": "Browse our range and add items.",
+    "cta": "Continue shopping"
+  },
+  "item_count": "{{count}} items",
+  "item_count_one": "{{count}} item",
+  "subtotal": "Subtotal",
+  "shipping": "Shipping",
+  "shipping_free": "Free",
+  "total": "Total",
+  "checkout": "Checkout",
+  "continue_shopping": "Continue shopping",
+  "remove": "Remove",
+  "quantity": "Quantity",
+  "free_shipping_hint": "{{amount}} more for free delivery",
+  "drawer_title": "Cart",
+  "added": "Item added",
+  "updated": "Quantity updated",
+  "removed": "Item removed",
+  "view_cart": "View cart"
+}

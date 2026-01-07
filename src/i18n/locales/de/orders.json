@@ -1,0 +1,62 @@
+{
+  "title": "Meine Bestellungen",
+  "empty": {
+    "title": "Keine Bestellungen",
+    "subtitle": "Sie haben noch keine Bestellungen aufgegeben.",
+    "cta": "Jetzt einkaufen"
+  },
+  "order": "Bestellung",
+  "order_number": "Bestellnummer",
+  "date": "Bestelldatum",
+  "status": {
+    "PENDING": "Ausstehend",
+    "PLACED": "Aufgegeben",
+    "CONFIRMED": "Bestätigt",
+    "PROCESSING": "In Bearbeitung",
+    "SHIPPED": "Versandt",
+    "DELIVERED": "Geliefert",
+    "READY_FOR_PICKUP": "Abholbereit",
+    "PICKED_UP": "Abgeholt",
+    "CANCELLED": "Storniert",
+    "RETURNED": "Zurückgeschickt",
+    "PICKUP_EXPIRED": "Abholung abgelaufen"
+  },
+  "payment_method": {
+    "card": "Kreditkarte",
+    "twint": "TWINT",
+    "postfinance": "PostFinance",
+    "invoice": "Rechnung"
+  },
+  "payment_status": {
+    "PENDING": "Ausstehend",
+    "PROCESSING": "In Bearbeitung",
+    "PAID": "Bezahlt",
+    "FAILED": "Fehlgeschlagen",
+    "REFUNDED": "Rückerstattet"
+  },
+  "detail": {
+    "title": "Bestelldetails",
+    "items": "Artikel",
+    "shipping_address": "Lieferadresse",
+    "payment": "Zahlung",
+    "summary": "Zusammenfassung",
+    "subtotal": "Zwischensumme",
+    "shipping": "Versandkosten",
+    "discount": "Rabatt",
+    "total": "Gesamttotal",
+    "cancel": "Bestellung stornieren",
+    "cancel_confirm": "Möchten Sie diese Bestellung wirklich stornieren?",
+    "not_found": "Bestellung nicht gefunden.",
+    "shipping_free": "Gratis",
+    "back": "Alle Bestellungen",
+    "payment_chip": "Zahlung: {{method}}"
+  },
+  "cancelled": "Bestellung storniert",
+  "cancel_error": "Stornierung fehlgeschlagen",
+  "confirmation": {
+    "title": "Bestellung erfolgreich!",
+    "subtitle": "Ihre Bestellung {{number}} wurde aufgenommen.",
+    "view_order": "Bestellung anzeigen",
+    "continue": "Weiter einkaufen"
+  }
+}

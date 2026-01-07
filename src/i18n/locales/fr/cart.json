@@ -1,0 +1,24 @@
+{
+  "title": "Panier",
+  "empty": {
+    "title": "Votre panier est vide",
+    "subtitle": "Découvrez notre gamme et ajoutez des articles.",
+    "cta": "Continuer vos achats"
+  },
+  "item_count": "{{count}} articles",
+  "item_count_one": "{{count}} article",
+  "subtotal": "Sous-total",
+  "shipping": "Frais de livraison",
+  "shipping_free": "Gratuit",
+  "total": "Total",
+  "checkout": "Passer à la caisse",
+  "continue_shopping": "Continuer vos achats",
+  "remove": "Supprimer",
+  "quantity": "Quantité",
+  "free_shipping_hint": "Plus que {{amount}} pour la livraison gratuite",
+  "drawer_title": "Panier",
+  "added": "Article ajouté",
+  "updated": "Quantité mise à jour",
+  "removed": "Article supprimé",
+  "view_cart": "Voir le panier"
+}

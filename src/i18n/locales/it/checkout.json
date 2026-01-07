@@ -1,0 +1,85 @@
+{
+  "title": "Cassa",
+  "steps": {
+    "delivery": "Consegna",
+    "address": "Indirizzo",
+    "payment": "Pagamento",
+    "confirm": "Riepilogo"
+  },
+  "delivery": {
+    "title": "Scegli la modalità di consegna",
+    "home_delivery": "Consegna a domicilio",
+    "home_delivery_desc": "Consegniamo direttamente a casa tua",
+    "click_collect": "Click & Collect",
+    "click_collect_desc": "Ritiro in uno dei nostri 164 negozi",
+    "select_store": "Scegli un negozio",
+    "store_selected": "Negozio: {{name}}"
+  },
+  "address": {
+    "title": "Indirizzo di consegna",
+    "saved_addresses": "Indirizzi salvati",
+    "new_address": "Nuovo indirizzo",
+    "first_name": "Nome",
+    "last_name": "Cognome",
+    "street": "Via",
+    "street_number": "N.",
+    "postal_code": "CAP",
+    "city": "Città",
+    "canton": "Cantone",
+    "phone": "Telefono (opzionale)",
+    "no_saved": "Nessun indirizzo salvato. Aggiungine uno nel tuo profilo."
+  },
+  "payment": {
+    "title": "Metodo di pagamento",
+    "card": "Carta di credito / debito",
+    "twint": "TWINT",
+    "postfinance": "PostFinance",
+    "invoice": "Fattura",
+    "pay_now": "Paga ora",
+    "simulate": "Simula pagamento",
+    "transfer_number": "Numero di bonifico",
+    "confirm_transfer": "Conferma",
+    "invoice_instructions": "Trasferisci l'importo sul conto indicato e inserisci il numero di bonifico.",
+    "invoice_processing": "Il pagamento con fattura è in fase di elaborazione.",
+    "success_message": "Pagamento completato con successo!",
+    "failed_message": "Pagamento fallito. Riprova.",
+    "error_initiate": "Impossibile avviare il pagamento",
+    "error_simulate": "Simulazione fallita",
+    "error_invoice": "Conferma fattura fallita",
+    "status": {
+      "pending": "In sospeso",
+      "processing": "In elaborazione",
+      "succeeded": "Pagato",
+      "failed": "Fallito",
+      "refunded": "Rimborsato",
+      "cancelled": "Annullato",
+      "no_payment": "Non pagato"
+    }
+  },
+  "summary": {
+    "title": "Riepilogo",
+    "subtotal": "Subtotale",
+    "shipping": "Spedizione",
+    "shipping_free": "Gratuita",
+    "discount": "Sconto",
+    "total": "Totale",
+    "place_order": "Ordina",
+    "agree_terms": "Accetto le CGV"
+  },
+  "confirmation": {
+    "title": "Ordine effettuato!",
+    "subtitle": "Il tuo ordine {{number}} è stato registrato.",
+    "email_sent": "Una conferma è stata inviata a {{email}}.",
+    "view_order": "Visualizza ordine",
+    "continue": "Continua gli acquisti"
+  },
+  "errors": {
+    "place_order": "Impossibile effettuare l'ordine",
+    "no_address": "Seleziona un indirizzo",
+    "no_payment": "Seleziona un metodo di pagamento"
+  },
+  "actions": {
+    "next": "Avanti",
+    "back": "Indietro"
+  }
+}

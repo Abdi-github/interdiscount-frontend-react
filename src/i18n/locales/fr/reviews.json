@@ -1,0 +1,49 @@
+{
+  "title": "Avis",
+  "count": "{{count}} avis",
+  "no_reviews": "Aucun avis pour l'instant",
+  "be_first": "Soyez le premier à donner votre avis",
+  "write": "Rédiger un avis",
+  "rating_labels": {
+    "1": "Mauvais",
+    "2": "Passable",
+    "3": "Moyen",
+    "4": "Bon",
+    "5": "Excellent"
+  },
+  "form": {
+    "title": "Votre avis",
+    "rating": "Note",
+    "rating_required": "Veuillez choisir une note",
+    "headline": "Titre de votre avis",
+    "comment": "Votre commentaire",
+    "submit": "Publier l'avis",
+    "success": "Merci pour votre avis!",
+    "error": "Impossible de publier l'avis",
+    "body_label": "Votre avis",
+    "rating_label": "Note",
+    "title_label": "Titre"
+  },
+  "verified": "Achat vérifié",
+  "helpful": "Utile?",
+  "average": "Note moyenne",
+  "my_reviews": {
+    "title": "Mes avis",
+    "empty_title": "Aucun avis",
+    "empty_subtitle": "Vous n'avez pas encore rédigé d'avis.",
+    "browse_products": "Parcourir les produits",
+    "approved": "Approuvé",
+    "pending": "En attente",
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "edit_title": "Modifier l'avis",
+    "delete_title": "Supprimer l'avis",
+    "delete_confirm": "Voulez-vous vraiment supprimer cet avis ?",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "updated": "Avis mis à jour",
+    "deleted": "Avis supprimé",
+    "update_error": "Erreur lors de la mise à jour",
+    "delete_error": "Erreur lors de la suppression"
+  }
+}

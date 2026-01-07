@@ -1,0 +1,46 @@
+{
+  "all": "Alle Kategorien",
+  "products_count": "{{count}} Produkte",
+  "breadcrumb_home": "Startseite",
+  "empty": {
+    "title": "Keine Produkte gefunden",
+    "subtitle": "In dieser Kategorie gibt es aktuell keine Produkte."
+  },
+  "subcategories": "Unterkategorien",
+  "filter_and_sort": "Filtern & Sortieren",
+  "sort": {
+    "newest": "Neueste",
+    "price_asc": "Preis aufsteigend",
+    "price_desc": "Preis absteigend",
+    "rating": "Beste Bewertung",
+    "popular": "Beliebteste",
+    "discount": "Grösster Rabatt"
+  },
+  "filters": {
+    "brands": "Marken",
+    "price": "Preis",
+    "price_range": "CHF von – bis",
+    "price_from": "von",
+    "price_to": "bis",
+    "offers": "Angebote",
+    "promotions": "Aktionen",
+    "sustainable": "Nachhaltige Produkte",
+    "fast_delivery": "Schnelle Lieferung",
+    "fast_delivery_desc": "Produkte die innerhalb von 1 bis 2 Werktagen geliefert werden können.",
+    "more_filters": "Weitere Filter",
+    "all_filters": "Alle Filter",
+    "search_brand": "Marke suchen",
+    "apply": "Anwenden",
+    "reset": "Zurücksetzen",
+    "show_results": "{{count}} Artikel anzeigen",
+    "sort_label": "Sortierung",
+    "no_results_for": "Keine Ergebnisse für \"{{search}}\"",
+    "no_brands": "Keine Marken",
+    "title": "Filter",
+    "availability": "Verfügbarkeit",
+    "in_stock": "An Lager"
+  },
+  "all_products": "Gesamtsortiment",
+  "products_heading": "Produkte",
+  "products_of_total": "von {{total}} Produkten"
+}

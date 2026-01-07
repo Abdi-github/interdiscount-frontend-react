@@ -1,0 +1,85 @@
+{
+  "title": "Kasse",
+  "steps": {
+    "delivery": "Lieferung",
+    "address": "Adresse",
+    "payment": "Zahlung",
+    "confirm": "Übersicht"
+  },
+  "delivery": {
+    "title": "Liefermethode wählen",
+    "home_delivery": "Lieferung nach Hause",
+    "home_delivery_desc": "Wir liefern direkt zu Ihnen",
+    "click_collect": "Click & Collect",
+    "click_collect_desc": "In einer unserer 164 Filialen abholen",
+    "select_store": "Filiale auswählen",
+    "store_selected": "Filiale: {{name}}"
+  },
+  "address": {
+    "title": "Lieferadresse",
+    "saved_addresses": "Gespeicherte Adressen",
+    "new_address": "Neue Adresse",
+    "first_name": "Vorname",
+    "last_name": "Nachname",
+    "street": "Strasse",
+    "street_number": "Nr.",
+    "postal_code": "PLZ",
+    "city": "Ort",
+    "canton": "Kanton",
+    "phone": "Telefon (optional)",
+    "no_saved": "Keine gespeicherten Adressen. Bitte zuerst eine Adresse im Profil hinzufügen."
+  },
+  "payment": {
+    "title": "Zahlungsmethode",
+    "card": "Kreditkarte / Debitkarte",
+    "twint": "TWINT",
+    "postfinance": "PostFinance",
+    "invoice": "Rechnung",
+    "pay_now": "Jetzt bezahlen",
+    "simulate": "Zahlung simulieren",
+    "transfer_number": "Überweisungsnummer",
+    "confirm_transfer": "Bestätigen",
+    "invoice_instructions": "Bitte überweisen Sie den Betrag auf das angegebene Konto und geben Sie die Überweisungsnummer ein.",
+    "invoice_processing": "Ihre Rechnungszahlung wird bearbeitet.",
+    "success_message": "Zahlung erfolgreich abgeschlossen!",
+    "failed_message": "Zahlung fehlgeschlagen. Bitte versuchen Sie es erneut.",
+    "error_initiate": "Zahlung konnte nicht gestartet werden",
+    "error_simulate": "Simulation fehlgeschlagen",
+    "error_invoice": "Rechnungsbestätigung fehlgeschlagen",
+    "status": {
+      "pending": "Ausstehend",
+      "processing": "In Bearbeitung",
+      "succeeded": "Bezahlt",
+      "failed": "Fehlgeschlagen",
+      "refunded": "Erstattet",
+      "cancelled": "Storniert",
+      "no_payment": "Nicht bezahlt"
+    }
+  },
+  "summary": {
+    "title": "Bestellübersicht",
+    "subtotal": "Zwischensumme",
+    "shipping": "Versandkosten",
+    "shipping_free": "Gratis",
+    "discount": "Rabatt",
+    "total": "Gesamttotal",
+    "place_order": "Jetzt kaufen",
+    "agree_terms": "Ich akzeptiere die AGB"
+  },
+  "confirmation": {
+    "title": "Bestellung erfolgreich!",
+    "subtitle": "Ihre Bestellung {{number}} wurde aufgenommen.",
+    "email_sent": "Eine Bestätigung wurde an {{email}} gesendet.",
+    "view_order": "Bestellung anzeigen",
+    "continue": "Weiter einkaufen"
+  },
+  "errors": {
+    "place_order": "Bestellung konnte nicht aufgegeben werden",
+    "no_address": "Bitte wählen Sie eine Lieferadresse",
+    "no_payment": "Bitte wählen Sie eine Zahlungsmethode"
+  },
+  "actions": {
+    "next": "Weiter",
+    "back": "Zurück"
+  }
+}

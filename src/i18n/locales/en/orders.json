@@ -1,0 +1,62 @@
+{
+  "title": "My orders",
+  "empty": {
+    "title": "No orders",
+    "subtitle": "You haven't placed any orders yet.",
+    "cta": "Shop now"
+  },
+  "order": "Order",
+  "order_number": "Order number",
+  "date": "Order date",
+  "status": {
+    "PENDING": "Pending",
+    "PLACED": "Placed",
+    "CONFIRMED": "Confirmed",
+    "PROCESSING": "Processing",
+    "SHIPPED": "Shipped",
+    "DELIVERED": "Delivered",
+    "READY_FOR_PICKUP": "Ready for pickup",
+    "PICKED_UP": "Picked up",
+    "CANCELLED": "Cancelled",
+    "RETURNED": "Returned",
+    "PICKUP_EXPIRED": "Pickup expired"
+  },
+  "payment_method": {
+    "card": "Credit card",
+    "twint": "TWINT",
+    "postfinance": "PostFinance",
+    "invoice": "Invoice"
+  },
+  "payment_status": {
+    "PENDING": "Pending",
+    "PROCESSING": "Processing",
+    "PAID": "Paid",
+    "FAILED": "Failed",
+    "REFUNDED": "Refunded"
+  },
+  "detail": {
+    "title": "Order details",
+    "items": "Items",
+    "shipping_address": "Shipping address",
+    "payment": "Payment",
+    "summary": "Summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "discount": "Discount",
+    "total": "Total",
+    "cancel": "Cancel order",
+    "cancel_confirm": "Are you sure you want to cancel this order?",
+    "not_found": "Order not found.",
+    "shipping_free": "Free",
+    "back": "All orders",
+    "payment_chip": "Payment: {{method}}"
+  },
+  "cancelled": "Order cancelled",
+  "cancel_error": "Cancellation failed",
+  "confirmation": {
+    "title": "Order placed successfully!",
+    "subtitle": "Your order {{number}} has been received.",
+    "view_order": "View order",
+    "continue": "Continue shopping"
+  }
+}

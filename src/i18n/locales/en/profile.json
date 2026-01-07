@@ -1,0 +1,64 @@
+{
+  "title": "My account",
+  "tabs": {
+    "dashboard": "Dashboard",
+    "profile": "Profile",
+    "orders": "Orders",
+    "addresses": "Addresses",
+    "favorites": "Wishlist",
+    "security": "Security",
+    "notifications": "Notifications",
+    "reviews": "My Reviews"
+  },
+  "dashboard": {
+    "welcome": "Welcome, {{name}}!",
+    "total_orders": "Orders",
+    "total_favorites": "Favorites",
+    "verified": "Verified",
+    "not_verified": "Not verified",
+    "account_status": "Account status",
+    "recent_orders": "Recent orders",
+    "view_all": "View all",
+    "no_orders": "No orders yet",
+    "start_shopping": "Start shopping"
+  },
+  "personal": {
+    "title": "Personal details",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "email": "Email",
+    "phone": "Phone",
+    "language": "Language",
+    "save": "Save changes",
+    "saved": "Profile updated"
+  },
+  "address": {
+    "title": "Addresses",
+    "add": "Add address",
+    "edit": "Edit",
+    "delete": "Delete",
+    "set_default": "Set as default",
+    "default_label": "Default",
+    "empty": "No addresses saved.",
+    "saved": "Address saved",
+    "deleted": "Address deleted",
+    "label_field": "Label (e.g. Home)",
+    "street": "Street",
+    "street_no": "No.",
+    "postal_code": "Post code",
+    "city": "City",
+    "cancel": "Cancel"
+  },
+  "password": {
+    "title": "Change password",
+    "current": "Current password",
+    "new": "New password",
+    "confirm": "Confirm password",
+    "save": "Change password",
+    "saved": "Password changed"
+  },
+  "errors": {
+    "save": "Error saving",
+    "wrong_password": "Current password is incorrect"
+  }
+}

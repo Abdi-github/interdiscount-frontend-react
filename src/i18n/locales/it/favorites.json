@@ -1,0 +1,16 @@
+{
+  "title": "I miei preferiti",
+  "empty": {
+    "title": "Nessun preferito",
+    "subtitle": "Salva qui i tuoi prodotti preferiti.",
+    "action": "Scopri i prodotti",
+    "cta": "Scopri i prodotti"
+  },
+  "add": "Aggiungi ai preferiti",
+  "remove": "Rimuovi dai preferiti",
+  "added": "Aggiunto ai preferiti",
+  "removed": "Rimosso dai preferiti",
+  "move_to_cart": "Aggiungi al carrello",
+  "count": "{{count}} preferito/i",
+  "count_items": "{{count}} articoli nella lista"
+}

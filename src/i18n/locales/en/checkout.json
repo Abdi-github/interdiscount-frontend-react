@@ -1,0 +1,85 @@
+{
+  "title": "Checkout",
+  "steps": {
+    "delivery": "Delivery",
+    "address": "Address",
+    "payment": "Payment",
+    "confirm": "Review"
+  },
+  "delivery": {
+    "title": "Choose delivery method",
+    "home_delivery": "Home delivery",
+    "home_delivery_desc": "We deliver directly to you",
+    "click_collect": "Click & Collect",
+    "click_collect_desc": "Pick up at one of our 164 stores",
+    "select_store": "Select store",
+    "store_selected": "Store: {{name}}"
+  },
+  "address": {
+    "title": "Delivery address",
+    "saved_addresses": "Saved addresses",
+    "new_address": "New address",
+    "first_name": "First name",
+    "last_name": "Last name",
+    "street": "Street",
+    "street_number": "No.",
+    "postal_code": "Postcode",
+    "city": "City",
+    "canton": "Canton",
+    "phone": "Phone (optional)",
+    "no_saved": "No saved addresses. Please add one in your profile."
+  },
+  "payment": {
+    "title": "Payment method",
+    "card": "Credit / debit card",
+    "twint": "TWINT",
+    "postfinance": "PostFinance",
+    "invoice": "Invoice",
+    "pay_now": "Pay now",
+    "simulate": "Simulate payment",
+    "transfer_number": "Transfer number",
+    "confirm_transfer": "Confirm",
+    "invoice_instructions": "Please transfer the amount to the specified account and enter the transfer number.",
+    "invoice_processing": "Your invoice payment is being processed.",
+    "success_message": "Payment completed successfully!",
+    "failed_message": "Payment failed. Please try again.",
+    "error_initiate": "Could not initiate payment",
+    "error_simulate": "Simulation failed",
+    "error_invoice": "Invoice confirmation failed",
+    "status": {
+      "pending": "Pending",
+      "processing": "Processing",
+      "succeeded": "Paid",
+      "failed": "Failed",
+      "refunded": "Refunded",
+      "cancelled": "Cancelled",
+      "no_payment": "Not paid"
+    }
+  },
+  "summary": {
+    "title": "Order summary",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "shipping_free": "Free",
+    "discount": "Discount",
+    "total": "Total",
+    "place_order": "Place order",
+    "agree_terms": "I accept the terms and conditions"
+  },
+  "confirmation": {
+    "title": "Order placed!",
+    "subtitle": "Your order {{number}} has been received.",
+    "email_sent": "A confirmation has been sent to {{email}}.",
+    "view_order": "View order",
+    "continue": "Continue shopping"
+  },
+  "errors": {
+    "place_order": "Could not place order",
+    "no_address": "Please select a delivery address",
+    "no_payment": "Please select a payment method"
+  },
+  "actions": {
+    "next": "Next",
+    "back": "Back"
+  }
+}

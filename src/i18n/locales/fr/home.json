@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "default_title": "La technologie au meilleur prix.",
+    "default_subtitle": "Plus de 40 000 produits aux meilleurs prix de Suisse.",
+    "default_cta": "Découvrir maintenant",
+    "slide1_title": "Nouveautés",
+    "slide1_subtitle": "Les derniers smartphones, ordinateurs portables & plus",
+    "slide1_cta": "Découvrir",
+    "slide2_title": "Meilleures offres",
+    "slide2_subtitle": "Économisez jusqu'à 40% sur des articles sélectionnés",
+    "slide2_cta": "Voir les offres"
+  },
+  "sections": {
+    "featured": "Nouveautés & Bestsellers",
+    "categories": "Catégories de produits",
+    "recommended": "Recommandé pour vous",
+    "brands": "Nos marques",
+    "promotions": "Promotions actuelles",
+    "top_deals": "Meilleures offres",
+    "new_arrivals": "Nouveautés",
+    "related": "Produits similaires",
+    "similar": "Vous aimerez peut-être"
+  },
+  "promo_strip": {
+    "free_shipping": "Livraison gratuite dès CHF 99",
+    "click_collect": "Click & Collect dans 164 magasins",
+    "guarantee": "Garantie 2 ans",
+    "item1": "✓ Livraison gratuite dès CHF 99",
+    "item2": "✓ 164 magasins en Suisse",
+    "item3": "✓ Click & Collect",
+    "item4": "✓ Retours 30 jours"
+  },
+  "about": {
+    "title": "À propos d'Interdiscount",
+    "description": "Interdiscount est le principal détaillant omnicanal dans le domaine de l'électronique domestique et de divertissement en Suisse. Avec environ 170 magasins et une boutique en ligne attractive, Interdiscount est toujours là pour ses clients. Chez Interdiscount, vous trouverez les meilleures marques, les produits les plus récents, des prix attractifs, des conseils compétents, un immense choix et des services de premier ordre – 24h/24."
+  },
+  "store_finder": {
+    "title": "Recherche de magasin",
+    "subtitle": "Nous vous conseillons volontiers personnellement.",
+    "description": "Visitez l'un de nos quelque 170 magasins",
+    "button": "Magasins"
+  },
+  "services": {
+    "heading": "Achetez comme vous le souhaitez",
+    "guarantee_plus": "Garantie Plus",
+    "guarantee_plus_desc": "Prolonger la garantie fabricant de 24 mois",
+    "free_pickup": "Retrait gratuit",
+    "free_pickup_desc": "Dans tous les magasins",
+    "free_shipping": "Livraison gratuite",
+    "free_shipping_desc": "Pour livraison à domicile dès CHF 49.–"
+  },
+  "newsletter": {
+    "title": "Newsletter Interdiscount",
+    "description": "Abonnez-vous à notre newsletter et soyez les premiers informés de nos offres hebdomadaires, promotions et nouveautés.",
+    "cta": "S'abonner maintenant"
+  },
+  "promos": {
+    "more_actions": "Découvrez d'autres promotions ici",
+    "cta": "Profitez maintenant"
+  },
+  "themes": {
+    "heading": "Nos univers thématiques",
+    "new_arrivals": "Nouveautés",
+    "new_arrivals_desc": "Toutes les nouveautés en un coup d'œil",
+    "gaming": "Gaming",
+    "gaming_desc": "Le meilleur du monde du gaming",
+    "spring_cleaning": "Grand ménage de printemps",
+    "spring_cleaning_desc": "Tout pour un nouveau départ en saison",
+    "baby_family": "Bébé & Famille",
+    "baby_family_desc": "Sécurité, confort et soins",
+    "photo_video": "Photo & Vidéo",
+    "photo_video_desc": "Capturer des moments et créer des souvenirs",
+    "gadgets": "Gadgets",
+    "gadgets_desc": "De nouveaux gadgets passionnants en un coup d'œil !"
+  }
+}

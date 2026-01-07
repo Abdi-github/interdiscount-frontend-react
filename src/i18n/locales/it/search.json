@@ -1,0 +1,26 @@
+{
+  "start_typing": "Inserisci un termine di ricerca",
+  "placeholder": "Cosa stai cercando?",
+  "results": "{{count}} risultato/i per «{{query}}»",
+  "no_results": "Nessun risultato per «{{query}}»",
+  "suggestions": "Suggerimenti",
+  "recent": "Ricerche recenti",
+  "clear_recent": "Cancella cronologia",
+  "popular": "Popolare",
+  "loading": "Ricerca in corso...",
+  "error": "Errore nella ricerca",
+  "filters": {
+    "title": "Filtri",
+    "category": "Categoria",
+    "brand": "Marchio",
+    "price": "Prezzo",
+    "rating": "Valutazione",
+    "apply": "Applica",
+    "reset": "Reimposta"
+  },
+  "categories_in_results": "Categorie nei risultati",
+  "clear": "Cancella",
+  "no_results_hint": "Prova con altri termini di ricerca",
+  "results_for": "Risultati per «{{query}}»",
+  "showing": "{{count}} risultati visualizzati"
+}

@@ -1,0 +1,77 @@
+{
+  "title": "Il mio account",
+  "tabs": {
+    "dashboard": "Panoramica",
+    "personal": "Dati personali",
+    "addresses": "Indirizzi",
+    "password": "Password",
+    "orders": "Ordini",
+    "favorites": "Preferiti",
+    "profile": "Profilo",
+    "security": "Sicurezza",
+    "notifications": "Notifiche",
+    "reviews": "Le mie recensioni"
+  },
+  "dashboard": {
+    "welcome": "Benvenuto, {{name}}!",
+    "total_orders": "Ordini",
+    "total_favorites": "Preferiti",
+    "verified": "Verificato",
+    "not_verified": "Non verificato",
+    "account_status": "Stato dell'account",
+    "recent_orders": "Ordini recenti",
+    "view_all": "Vedi tutti",
+    "no_orders": "Nessun ordine ancora",
+    "start_shopping": "Inizia a fare acquisti"
+  },
+  "personal": {
+    "title": "Dati personali",
+    "first_name": "Nome",
+    "last_name": "Cognome",
+    "email": "E-mail",
+    "phone": "Telefono",
+    "birth_date": "Data di nascita",
+    "save": "Salva",
+    "language": "Lingua",
+    "saved": "Profilo salvato"
+  },
+  "address": {
+    "title": "I miei indirizzi",
+    "add": "Aggiungi indirizzo",
+    "default": "Indirizzo principale",
+    "set_default": "Imposta come principale",
+    "delete": "Elimina",
+    "confirm_delete": "Confermare l'eliminazione?",
+    "label_field": "Etichetta (es. Casa)",
+    "street": "Via",
+    "street_no": "N°",
+    "postal_code": "CAP",
+    "city": "Città",
+    "cancel": "Annulla",
+    "default_label": "Predefinito",
+    "deleted": "Indirizzo eliminato",
+    "edit": "Modifica indirizzo",
+    "empty": "Nessun indirizzo salvato",
+    "saved": "Indirizzo salvato"
+  },
+  "password": {
+    "title": "Cambia password",
+    "current": "Password attuale",
+    "new": "Nuova password",
+    "confirm": "Conferma nuova password",
+    "save": "Modifica",
+    "saved": "Password modificata"
+  },
+  "success": {
+    "personal": "Profilo aggiornato",
+    "password": "Password modificata",
+    "address_saved": "Indirizzo salvato",
+    "address_deleted": "Indirizzo eliminato"
+  },
+  "errors": {
+    "current_password": "Password attuale errata",
+    "update_failed": "Aggiornamento non riuscito",
+    "save": "Errore durante il salvataggio",
+    "wrong_password": "Password errata"
+  }
+}

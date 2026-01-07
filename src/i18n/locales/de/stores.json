@@ -1,0 +1,34 @@
+{
+  "title": "Filialen",
+  "subtitle": "164 Filialen in der ganzen Schweiz",
+  "search": "Filiale suchen",
+  "filter_canton": "Kanton filtern",
+  "all_cantons": "Alle Kantone",
+  "open_now": "Jetzt offen",
+  "hours": "Öffnungszeiten",
+  "closed": "Geschlossen",
+  "direction": "Route planen",
+  "today": "Heute",
+  "formats": {
+    "standard": "Standard",
+    "xxl": "XXL",
+    "compact": "Compact"
+  },
+  "detail": {
+    "address": "Adresse",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "hours": "Öffnungszeiten",
+    "pickup": "Click & Collect verfügbar"
+  },
+  "days": {
+    "monday": "Montag",
+    "tuesday": "Dienstag",
+    "wednesday": "Mittwoch",
+    "thursday": "Donnerstag",
+    "friday": "Freitag",
+    "saturday": "Samstag",
+    "sunday": "Sonntag"
+  },
+  "empty": "Keine Filialen gefunden"
+}

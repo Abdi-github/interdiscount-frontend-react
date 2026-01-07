@@ -1,0 +1,49 @@
+{
+  "title": "Recensioni",
+  "count": "{{count}} recensione/i",
+  "no_reviews": "Nessuna recensione ancora",
+  "be_first": "Sii il primo a recensire questo prodotto",
+  "write": "Scrivi una recensione",
+  "rating_labels": {
+    "1": "Scarso",
+    "2": "Sufficiente",
+    "3": "Discreto",
+    "4": "Buono",
+    "5": "Eccellente"
+  },
+  "form": {
+    "title": "La tua recensione",
+    "rating": "Valutazione",
+    "rating_required": "Seleziona una valutazione",
+    "headline": "Titolo della recensione",
+    "comment": "Il tuo commento",
+    "submit": "Pubblica recensione",
+    "success": "Grazie per la tua recensione!",
+    "error": "Impossibile pubblicare la recensione",
+    "body_label": "La tua recensione",
+    "rating_label": "Valutazione",
+    "title_label": "Titolo"
+  },
+  "verified": "Acquisto verificato",
+  "helpful": "Utile?",
+  "average": "Valutazione media",
+  "my_reviews": {
+    "title": "Le mie recensioni",
+    "empty_title": "Nessuna recensione",
+    "empty_subtitle": "Non hai ancora scritto recensioni.",
+    "browse_products": "Sfoglia i prodotti",
+    "approved": "Approvata",
+    "pending": "In attesa",
+    "edit": "Modifica",
+    "delete": "Elimina",
+    "edit_title": "Modifica recensione",
+    "delete_title": "Elimina recensione",
+    "delete_confirm": "Sei sicuro di voler eliminare questa recensione?",
+    "cancel": "Annulla",
+    "save": "Salva",
+    "updated": "Recensione aggiornata",
+    "deleted": "Recensione eliminata",
+    "update_error": "Errore durante l'aggiornamento",
+    "delete_error": "Errore durante l'eliminazione"
+  }
+}

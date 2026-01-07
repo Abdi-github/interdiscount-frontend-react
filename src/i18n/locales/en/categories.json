@@ -1,0 +1,46 @@
+{
+  "all": "All Categories",
+  "products_count": "{{count}} Products",
+  "breadcrumb_home": "Home",
+  "empty": {
+    "title": "No products found",
+    "subtitle": "There are currently no products in this category."
+  },
+  "subcategories": "Subcategories",
+  "filter_and_sort": "Filter & Sort",
+  "sort": {
+    "newest": "Newest",
+    "price_asc": "Price: Low to High",
+    "price_desc": "Price: High to Low",
+    "rating": "Best Rated",
+    "popular": "Most Popular",
+    "discount": "Biggest Discount"
+  },
+  "filters": {
+    "brands": "Brands",
+    "price": "Price",
+    "price_range": "CHF from – to",
+    "price_from": "from",
+    "price_to": "to",
+    "offers": "Offers",
+    "promotions": "Promotions",
+    "sustainable": "Sustainable Products",
+    "fast_delivery": "Fast Delivery",
+    "fast_delivery_desc": "Products that can be delivered within 1 to 2 business days.",
+    "more_filters": "More Filters",
+    "all_filters": "All Filters",
+    "search_brand": "Search brand",
+    "apply": "Apply",
+    "reset": "Reset",
+    "show_results": "Show {{count}} items",
+    "sort_label": "Sort by",
+    "no_results_for": "No results for \"{{search}}\"",
+    "no_brands": "No brands",
+    "title": "Filter",
+    "availability": "Availability",
+    "in_stock": "In stock"
+  },
+  "all_products": "All Products",
+  "products_heading": "Products",
+  "products_of_total": "of {{total}} products"
+}

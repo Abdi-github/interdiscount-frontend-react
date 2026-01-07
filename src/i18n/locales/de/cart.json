@@ -1,0 +1,24 @@
+{
+  "title": "Warenkorb",
+  "empty": {
+    "title": "Ihr Warenkorb ist leer",
+    "subtitle": "Entdecken Sie unser Sortiment und fügen Sie Artikel hinzu.",
+    "cta": "Weiter einkaufen"
+  },
+  "item_count": "{{count}} Artikel",
+  "item_count_one": "{{count}} Artikel",
+  "subtotal": "Zwischensumme",
+  "shipping": "Versandkosten",
+  "shipping_free": "Gratis",
+  "total": "Gesamttotal",
+  "checkout": "Zur Kasse",
+  "continue_shopping": "Weiter einkaufen",
+  "remove": "Entfernen",
+  "quantity": "Menge",
+  "free_shipping_hint": "Noch {{amount}} bis zur gratis Lieferung",
+  "drawer_title": "Warenkorb",
+  "added": "Artikel hinzugefügt",
+  "updated": "Menge aktualisiert",
+  "removed": "Artikel entfernt",
+  "view_cart": "Warenkorb anzeigen"
+}

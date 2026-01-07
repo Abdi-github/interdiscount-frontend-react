@@ -1,0 +1,77 @@
+{
+  "title": "Mon compte",
+  "tabs": {
+    "dashboard": "Aperçu",
+    "personal": "Informations personnelles",
+    "addresses": "Adresses",
+    "password": "Mot de passe",
+    "orders": "Commandes",
+    "favorites": "Favoris",
+    "profile": "Profil",
+    "security": "Sécurité",
+    "notifications": "Notifications",
+    "reviews": "Mes avis"
+  },
+  "dashboard": {
+    "welcome": "Bienvenue, {{name}} !",
+    "total_orders": "Commandes",
+    "total_favorites": "Favoris",
+    "verified": "Vérifié",
+    "not_verified": "Non vérifié",
+    "account_status": "Statut du compte",
+    "recent_orders": "Commandes récentes",
+    "view_all": "Voir tout",
+    "no_orders": "Aucune commande pour le moment",
+    "start_shopping": "Commencer vos achats"
+  },
+  "personal": {
+    "title": "Informations personnelles",
+    "first_name": "Prénom",
+    "last_name": "Nom",
+    "email": "E-mail",
+    "phone": "Téléphone",
+    "birth_date": "Date de naissance",
+    "save": "Enregistrer",
+    "language": "Langue",
+    "saved": "Profil enregistré"
+  },
+  "address": {
+    "title": "Mes adresses",
+    "add": "Ajouter une adresse",
+    "default": "Adresse principale",
+    "set_default": "Définir par défaut",
+    "delete": "Supprimer",
+    "confirm_delete": "Confirmer la suppression?",
+    "label_field": "Nom (ex. Domicile)",
+    "street": "Rue",
+    "street_no": "N°",
+    "postal_code": "Code postal",
+    "city": "Ville",
+    "cancel": "Annuler",
+    "default_label": "Par défaut",
+    "deleted": "Adresse supprimée",
+    "edit": "Modifier l'adresse",
+    "empty": "Aucune adresse enregistrée",
+    "saved": "Adresse enregistrée"
+  },
+  "password": {
+    "title": "Changer le mot de passe",
+    "current": "Mot de passe actuel",
+    "new": "Nouveau mot de passe",
+    "confirm": "Confirmer le nouveau mot de passe",
+    "save": "Modifier",
+    "saved": "Mot de passe modifié"
+  },
+  "success": {
+    "personal": "Profil mis à jour",
+    "password": "Mot de passe modifié",
+    "address_saved": "Adresse enregistrée",
+    "address_deleted": "Adresse supprimée"
+  },
+  "errors": {
+    "current_password": "Mot de passe actuel incorrect",
+    "update_failed": "Mise à jour échouée",
+    "save": "Erreur lors de l'enregistrement",
+    "wrong_password": "Mot de passe incorrect"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "title": "Nos magasins",
+  "search_placeholder": "Rechercher un magasin...",
+  "find_near_me": "À proximité",
+  "count": "{{count}} magasin(s)",
+  "no_stores": "Aucun magasin trouvé",
+  "detail": {
+    "address": "Adresse",
+    "hours": "Horaires",
+    "phone": "Téléphone",
+    "services": "Services",
+    "directions": "Itinéraire",
+    "email": "E-mail",
+    "pickup": "Retrait en magasin"
+  },
+  "hours": {
+    "open_now": "Ouvert",
+    "closed_now": "Fermé",
+    "opens_at": "Ouvre à {{time}}",
+    "closes_at": "Ferme à {{time}}",
+    "open_24h": "Ouvert 24h/24"
+  },
+  "days": {
+    "monday": "Lundi",
+    "tuesday": "Mardi",
+    "wednesday": "Mercredi",
+    "thursday": "Jeudi",
+    "friday": "Vendredi",
+    "saturday": "Samedi",
+    "sunday": "Dimanche"
+  },
+  "services": {
+    "click_collect": "Click & Collect",
+    "repair": "Réparation",
+    "parking": "Parking",
+    "accessibility": "Accessible PMR"
+  },
+  "all_cantons": "Tous les cantons",
+  "closed": "Fermé",
+  "direction": "Itinéraire",
+  "empty": "Aucune filiale trouvée",
+  "filter_canton": "Filtrer par canton",
+  "formats": {
+    "compact": "Compact",
+    "standard": "Standard",
+    "xxl": "XXL"
+  },
+  "open_now": "Ouvert maintenant",
+  "search": "Rechercher une filiale",
+  "subtitle": "Trouvez votre filiale Interdiscount",
+  "today": "Aujourd'hui"
+}

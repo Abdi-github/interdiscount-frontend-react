@@ -1,0 +1,13 @@
+{
+  "title": "Wunschliste",
+  "empty": {
+    "title": "Ihre Wunschliste ist leer",
+    "subtitle": "Speichern Sie Ihre Lieblingsprodukte für später.",
+    "cta": "Produkte entdecken"
+  },
+  "added": "Zur Wunschliste hinzugefügt",
+  "removed": "Von der Wunschliste entfernt",
+  "add": "Auf Wunschliste",
+  "count": "{{count}} Artikel",
+  "count_items": "{{count}} Artikel in der Wunschliste"
+}

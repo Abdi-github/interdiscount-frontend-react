@@ -1,0 +1,35 @@
+{
+  "title": "Bewertungen",
+  "write": "Bewertung schreiben",
+  "count": "{{count}} Bewertungen",
+  "average": "Durchschnitt",
+  "no_reviews": "Noch keine Bewertungen.",
+  "form": {
+    "title_label": "Titel",
+    "body_label": "Ihre Bewertung",
+    "rating_label": "Bewertung",
+    "submit": "Bewertung abgeben",
+    "success": "Bewertung eingereicht",
+    "error": "Fehler beim Einreichen"
+  },
+  "verified": "Verifizierter Kauf",
+  "my_reviews": {
+    "title": "Meine Bewertungen",
+    "empty_title": "Keine Bewertungen",
+    "empty_subtitle": "Sie haben noch keine Bewertungen geschrieben.",
+    "browse_products": "Produkte durchsuchen",
+    "approved": "Genehmigt",
+    "pending": "Ausstehend",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "edit_title": "Bewertung bearbeiten",
+    "delete_title": "Bewertung löschen",
+    "delete_confirm": "Möchten Sie diese Bewertung wirklich löschen?",
+    "cancel": "Abbrechen",
+    "save": "Speichern",
+    "updated": "Bewertung aktualisiert",
+    "deleted": "Bewertung gelöscht",
+    "update_error": "Fehler beim Aktualisieren",
+    "delete_error": "Fehler beim Löschen"
+  }
+}

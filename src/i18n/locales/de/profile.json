@@ -1,0 +1,64 @@
+{
+  "title": "Mein Konto",
+  "tabs": {
+    "dashboard": "Übersicht",
+    "profile": "Profil",
+    "orders": "Bestellungen",
+    "addresses": "Adressen",
+    "favorites": "Wunschliste",
+    "security": "Sicherheit",
+    "notifications": "Benachrichtigungen",
+    "reviews": "Meine Bewertungen"
+  },
+  "dashboard": {
+    "welcome": "Willkommen, {{name}}!",
+    "total_orders": "Bestellungen",
+    "total_favorites": "Favoriten",
+    "verified": "Verifiziert",
+    "not_verified": "Nicht verifiziert",
+    "account_status": "Kontostatus",
+    "recent_orders": "Letzte Bestellungen",
+    "view_all": "Alle anzeigen",
+    "no_orders": "Noch keine Bestellungen",
+    "start_shopping": "Jetzt einkaufen"
+  },
+  "personal": {
+    "title": "Persönliche Angaben",
+    "first_name": "Vorname",
+    "last_name": "Nachname",
+    "email": "E-Mail",
+    "phone": "Telefon",
+    "language": "Sprache",
+    "save": "Änderungen speichern",
+    "saved": "Profil aktualisiert"
+  },
+  "address": {
+    "title": "Adressen",
+    "add": "Adresse hinzufügen",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "set_default": "Als Standard setzen",
+    "default_label": "Standard",
+    "empty": "Keine Adressen gespeichert.",
+    "saved": "Adresse gespeichert",
+    "deleted": "Adresse gelöscht",
+    "label_field": "Bezeichnung (z.B. Zuhause)",
+    "street": "Strasse",
+    "street_no": "Nr.",
+    "postal_code": "PLZ",
+    "city": "Ort",
+    "cancel": "Abbrechen"
+  },
+  "password": {
+    "title": "Passwort ändern",
+    "current": "Aktuelles Passwort",
+    "new": "Neues Passwort",
+    "confirm": "Passwort bestätigen",
+    "save": "Passwort ändern",
+    "saved": "Passwort geändert"
+  },
+  "errors": {
+    "save": "Fehler beim Speichern",
+    "wrong_password": "Aktuelles Passwort falsch"
+  }
+}

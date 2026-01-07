@@ -1,0 +1,91 @@
+{
+  "title": "Mes commandes",
+  "empty": {
+    "title": "Aucune commande",
+    "subtitle": "Vous n'avez pas encore passé de commande.",
+    "action": "Commencer les achats",
+    "cta": "Découvrir les produits"
+  },
+  "order": {
+    "number": "Commande n° {{number}}",
+    "date": "Passée le {{date}}",
+    "total": "Total: {{total}}",
+    "items_count": "{{count}} article(s)"
+  },
+  "status": {
+    "pending": "En attente",
+    "confirmed": "Confirmée",
+    "processing": "En préparation",
+    "shipped": "Expédiée",
+    "delivered": "Livrée",
+    "cancelled": "Annulée",
+    "refunded": "Remboursée",
+    "CANCELLED": "Annulée",
+    "CONFIRMED": "Confirmée",
+    "DELIVERED": "Livrée",
+    "PICKED_UP": "Récupérée",
+    "PICKUP_EXPIRED": "Retrait expiré",
+    "PENDING": "En attente",
+    "PLACED": "Passée",
+    "PROCESSING": "En traitement",
+    "READY_FOR_PICKUP": "Prête pour retrait",
+    "RETURNED": "Retournée",
+    "SHIPPED": "Expédiée"
+  },
+  "payment_method": {
+    "card": "Carte",
+    "twint": "TWINT",
+    "postfinance": "PostFinance",
+    "invoice": "Facture"
+  },
+  "payment_status": {
+    "pending": "En attente",
+    "paid": "Payée",
+    "failed": "Échouée",
+    "refunded": "Remboursée",
+    "FAILED": "Échoué",
+    "PAID": "Payé",
+    "PENDING": "En attente",
+    "PROCESSING": "En cours",
+    "REFUNDED": "Remboursé"
+  },
+  "detail": {
+    "title": "Commande n° {{number}}",
+    "delivery_address": "Adresse de livraison",
+    "billing_address": "Adresse de facturation",
+    "payment": "Paiement",
+    "product": "Produit",
+    "quantity": "Qté",
+    "price": "Prix",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "total": "Total",
+    "cancel": "Annuler la commande",
+    "reorder": "Recommander",
+    "not_found": "Commande introuvable.",
+    "shipping_free": "Gratuit",
+    "back": "Toutes les commandes",
+    "payment_chip": "Paiement : {{method}}",
+    "cancel_confirm": "Annuler cette commande?",
+    "discount": "Remise",
+    "items": "Articles",
+    "shipping_address": "Adresse de livraison",
+    "summary": "Résumé"
+  },
+  "timeline": {
+    "ordered": "Commande passée",
+    "confirmed": "Confirmée",
+    "shipped": "Expédiée",
+    "delivered": "Livrée"
+  },
+  "confirmation": {
+    "title": "Commande passée avec succès !",
+    "subtitle": "Votre commande {{number}} a été enregistrée.",
+    "view_order": "Voir la commande",
+    "continue": "Continuer mes achats"
+  },
+  "cancel_error": "Erreur lors de l'annulation",
+  "cancelled": "Commande annulée",
+  "date": "Date",
+  "order_number": "N° de commande"
+}

@@ -1,0 +1,91 @@
+{
+  "title": "I miei ordini",
+  "empty": {
+    "title": "Nessun ordine",
+    "subtitle": "Non hai ancora effettuato ordini.",
+    "action": "Inizia gli acquisti",
+    "cta": "Scopri i prodotti"
+  },
+  "order": {
+    "number": "Ordine n. {{number}}",
+    "date": "Effettuato il {{date}}",
+    "total": "Totale: {{total}}",
+    "items_count": "{{count}} articolo/i"
+  },
+  "status": {
+    "pending": "In attesa",
+    "confirmed": "Confermato",
+    "processing": "In preparazione",
+    "shipped": "Spedito",
+    "delivered": "Consegnato",
+    "cancelled": "Annullato",
+    "refunded": "Rimborsato",
+    "CANCELLED": "Annullato",
+    "CONFIRMED": "Confermato",
+    "DELIVERED": "Consegnato",
+    "PICKED_UP": "Ritirato",
+    "PICKUP_EXPIRED": "Ritiro scaduto",
+    "PENDING": "In sospeso",
+    "PLACED": "Inserito",
+    "PROCESSING": "In elaborazione",
+    "READY_FOR_PICKUP": "Pronto per il ritiro",
+    "RETURNED": "Restituito",
+    "SHIPPED": "Spedito"
+  },
+  "payment_method": {
+    "card": "Carta",
+    "twint": "TWINT",
+    "postfinance": "PostFinance",
+    "invoice": "Fattura"
+  },
+  "payment_status": {
+    "pending": "In attesa",
+    "paid": "Pagato",
+    "failed": "Fallito",
+    "refunded": "Rimborsato",
+    "FAILED": "Fallito",
+    "PAID": "Pagato",
+    "PENDING": "In attesa",
+    "PROCESSING": "In elaborazione",
+    "REFUNDED": "Rimborsato"
+  },
+  "detail": {
+    "title": "Ordine n. {{number}}",
+    "delivery_address": "Indirizzo di consegna",
+    "billing_address": "Indirizzo di fatturazione",
+    "payment": "Pagamento",
+    "product": "Prodotto",
+    "quantity": "Qtà",
+    "price": "Prezzo",
+    "subtotal": "Subtotale",
+    "shipping": "Spedizione",
+    "total": "Totale",
+    "cancel": "Annulla ordine",
+    "reorder": "Riordina",
+    "not_found": "Ordine non trovato.",
+    "shipping_free": "Gratuito",
+    "back": "Tutti gli ordini",
+    "payment_chip": "Pagamento: {{method}}",
+    "cancel_confirm": "Annullare questo ordine?",
+    "discount": "Sconto",
+    "items": "Articoli",
+    "shipping_address": "Indirizzo di consegna",
+    "summary": "Riepilogo"
+  },
+  "timeline": {
+    "ordered": "Ordine effettuato",
+    "confirmed": "Confermato",
+    "shipped": "Spedito",
+    "delivered": "Consegnato"
+  },
+  "confirmation": {
+    "title": "Ordine effettuato con successo!",
+    "subtitle": "Il tuo ordine {{number}} è stato ricevuto.",
+    "view_order": "Vedi l'ordine",
+    "continue": "Continua gli acquisti"
+  },
+  "cancel_error": "Errore durante l'annullamento",
+  "cancelled": "Ordine annullato",
+  "date": "Data",
+  "order_number": "N. ordine"
+}

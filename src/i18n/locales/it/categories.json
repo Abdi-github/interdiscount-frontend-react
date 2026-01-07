@@ -1,0 +1,46 @@
+{
+  "all": "Tutte le categorie",
+  "products_count": "{{count}} prodotti",
+  "breadcrumb_home": "Home",
+  "empty": {
+    "title": "Nessun prodotto trovato",
+    "subtitle": "Al momento non ci sono prodotti in questa categoria."
+  },
+  "subcategories": "Sottocategorie",
+  "filter_and_sort": "Filtro & Ordina",
+  "sort": {
+    "newest": "Più recente",
+    "price_asc": "Prezzo crescente",
+    "price_desc": "Prezzo decrescente",
+    "rating": "Migliore valutazione",
+    "popular": "Più popolari",
+    "discount": "Sconto maggiore"
+  },
+  "filters": {
+    "brands": "Marche",
+    "price": "Prezzo",
+    "price_range": "CHF da – a",
+    "price_from": "da",
+    "price_to": "a",
+    "offers": "Offerte",
+    "promotions": "Promozioni",
+    "sustainable": "Prodotti sostenibili",
+    "fast_delivery": "Consegna rapida",
+    "fast_delivery_desc": "Prodotti che possono essere consegnati entro 1-2 giorni lavorativi.",
+    "more_filters": "Altri filtri",
+    "all_filters": "Tutti i filtri",
+    "search_brand": "Cerca marca",
+    "apply": "Applica",
+    "reset": "Ripristina",
+    "show_results": "Mostra {{count}} articoli",
+    "sort_label": "Ordina per",
+    "no_results_for": "Nessun risultato per \"{{search}}\"",
+    "no_brands": "Nessuna marca",
+    "title": "Filtro",
+    "availability": "Disponibilità",
+    "in_stock": "Disponibile"
+  },
+  "all_products": "Tutto l'assortimento",
+  "products_heading": "Prodotti",
+  "products_of_total": "di {{total}} prodotti"
+}

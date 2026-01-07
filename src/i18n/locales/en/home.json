@@ -1,0 +1,76 @@
+{
+  "hero": {
+    "default_title": "Technology at the best price.",
+    "default_subtitle": "Over 40,000 products at the best prices in Switzerland.",
+    "default_cta": "Discover now",
+    "slide1_title": "New arrivals",
+    "slide1_subtitle": "The latest smartphones, laptops & more",
+    "slide1_cta": "Discover now",
+    "slide2_title": "Top deals",
+    "slide2_subtitle": "Save up to 40% on selected items",
+    "slide2_cta": "View deals"
+  },
+  "sections": {
+    "featured": "New & Bestsellers",
+    "categories": "Product categories",
+    "recommended": "Recommended for you",
+    "brands": "Our brands",
+    "promotions": "Current promotions",
+    "top_deals": "Top deals",
+    "new_arrivals": "New Arrivals",
+    "related": "Similar Products",
+    "similar": "You Might Also Like"
+  },
+  "promo_strip": {
+    "free_shipping": "Free delivery from CHF 99",
+    "click_collect": "Click & Collect in 164 stores",
+    "guarantee": "2-year warranty",
+    "item1": "✓ Free delivery from CHF 99",
+    "item2": "✓ 164 Swiss stores",
+    "item3": "✓ Click & Collect",
+    "item4": "✓ 30-day returns"
+  },
+  "about": {
+    "title": "About Interdiscount",
+    "description": "Interdiscount is the leading omnichannel retailer in the home and consumer electronics sector in Switzerland. With around 170 stores and an attractive online shop, Interdiscount is always there for its customers. At Interdiscount you will find the best brands, the newest products, attractive prices, expert advice, a huge selection and top-quality services – around the clock."
+  },
+  "store_finder": {
+    "title": "Store Finder",
+    "subtitle": "We are happy to advise you personally.",
+    "description": "Visit one of around 170 stores",
+    "button": "Stores"
+  },
+  "services": {
+    "heading": "Shop the way you like",
+    "guarantee_plus": "Extended Warranty",
+    "guarantee_plus_desc": "Extend manufacturer warranty by 24 months",
+    "free_pickup": "Free Pickup",
+    "free_pickup_desc": "At all stores",
+    "free_shipping": "Free Shipping",
+    "free_shipping_desc": "For home delivery from CHF 49"
+  },
+  "newsletter": {
+    "title": "Interdiscount Newsletter",
+    "description": "Subscribe to our newsletter and be the first to know about our weekly offers, promotions and new arrivals.",
+    "cta": "Subscribe now"
+  },
+  "promos": {
+    "more_actions": "Find more promotions here",
+    "cta": "Shop now"
+  },
+  "themes": {
+    "heading": "Our Theme Worlds",
+    "new_arrivals": "New Arrivals",
+    "new_arrivals_desc": "All new products at a glance",
+    "gaming": "Gaming",
+    "gaming_desc": "The best from the gaming world",
+    "spring_cleaning": "Spring Cleaning",
+    "spring_cleaning_desc": "Everything for a fresh start to the season",
+    "baby_family": "Baby & Family",
+    "baby_family_desc": "Safety, comfort and care",
+    "photo_video": "Photo & Video",
+    "photo_video_desc": "Capture moments and create memories",
+    "gadgets": "Gadgets",
+    "gadgets_desc": "Exciting new gadgets at a glance!"
+  }
+}

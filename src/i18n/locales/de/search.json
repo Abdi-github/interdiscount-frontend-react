@@ -1,0 +1,14 @@
+{
+  "start_typing": "Suchwort eingeben um zu starten",
+  "results": "{{count}} Ergebnisse für «{{query}}»",
+  "placeholder": "Suchen im Sortiment",
+  "results_for": "Suchergebnisse für «{{query}}»",
+  "no_results": "Keine Ergebnisse für «{{query}}»",
+  "no_results_hint": "Überprüfen Sie die Schreibweise oder versuchen Sie andere Suchbegriffe.",
+  "suggestions": "Vorschläge",
+  "recent": "Zuletzt gesucht",
+  "clear": "Löschen",
+  "filters": "Filter",
+  "showing": "{{count}} Ergebnisse",
+  "categories_in_results": "Kategorien"
+}

@@ -1,0 +1,59 @@
+{
+  "title": "Produits",
+  "detail": {
+    "brand": "Marque",
+    "code": "N° article",
+    "rating": "Avis",
+    "delivery": "Livraison en {{count}} jours ouvrables",
+    "free_delivery": "Livraison gratuite",
+    "pickup": "Retrait en magasin",
+    "not_available": "Non disponible",
+    "specs": "Caractéristiques techniques",
+    "description": "Description",
+    "reviews": "Avis clients",
+    "related": "Produits similaires",
+    "delivery_tomorrow": "Livraison demain",
+    "click_collect_available": "Click & Collect disponible en magasin",
+    "financing_from": "Dès CHF",
+    "financing_month": "mois",
+    "financing_interest": "avec financement à 0%",
+    "free_delivery_min": "dès CHF 49",
+    "warranty_years": "2 ans",
+    "warranty": "Garantie",
+    "vat_included": "TVA incluse",
+    "article_number": "N° art. :"
+  },
+  "availability": {
+    "AVAILABLE": "En stock",
+    "LOW_STOCK": "Plus que quelques-uns",
+    "OUT_OF_STOCK": "Rupture de stock",
+    "PREORDER": "Précommande",
+    "DISCONTINUED": "Arrêté",
+    "ONORDER": "Disponible sur commande"
+  },
+  "sort": {
+    "label": "Trier",
+    "newest": "Plus récents",
+    "popular": "Les plus populaires",
+    "price_asc": "Prix croissant",
+    "price_desc": "Prix décroissant",
+    "rating": "Meilleure note"
+  },
+  "filter": {
+    "title": "Filtrer",
+    "reset": "Réinitialiser",
+    "price_range": "Fourchette de prix",
+    "min_price": "Min. CHF",
+    "max_price": "Max. CHF",
+    "brand": "Marque",
+    "availability": "Disponibilité",
+    "in_store": "Disponible en magasin",
+    "apply": "Appliquer"
+  },
+  "no_products": "Aucun produit trouvé",
+  "loading": "Chargement des produits…",
+  "product": "Produit",
+  "card": {
+    "instead_of": "au lieu de"
+  }
+}

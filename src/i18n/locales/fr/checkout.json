@@ -1,0 +1,85 @@
+{
+  "title": "Caisse",
+  "steps": {
+    "delivery": "Livraison",
+    "address": "Adresse",
+    "payment": "Paiement",
+    "confirm": "Récapitulatif"
+  },
+  "delivery": {
+    "title": "Choisir le mode de livraison",
+    "home_delivery": "Livraison à domicile",
+    "home_delivery_desc": "Nous livrons directement chez vous",
+    "click_collect": "Click & Collect",
+    "click_collect_desc": "Retrait dans l'un de nos 164 magasins",
+    "select_store": "Choisir un magasin",
+    "store_selected": "Magasin: {{name}}"
+  },
+  "address": {
+    "title": "Adresse de livraison",
+    "saved_addresses": "Adresses enregistrées",
+    "new_address": "Nouvelle adresse",
+    "first_name": "Prénom",
+    "last_name": "Nom",
+    "street": "Rue",
+    "street_number": "N°",
+    "postal_code": "NPA",
+    "city": "Localité",
+    "canton": "Canton",
+    "phone": "Téléphone (optionnel)",
+    "no_saved": "Aucune adresse enregistrée. Veuillez en ajouter une dans votre profil."
+  },
+  "payment": {
+    "title": "Mode de paiement",
+    "card": "Carte de crédit / débit",
+    "twint": "TWINT",
+    "postfinance": "PostFinance",
+    "invoice": "Facture",
+    "pay_now": "Payer maintenant",
+    "simulate": "Simuler le paiement",
+    "transfer_number": "Numéro de virement",
+    "confirm_transfer": "Confirmer",
+    "invoice_instructions": "Veuillez transférer le montant sur le compte indiqué et saisir le numéro de virement.",
+    "invoice_processing": "Votre paiement par facture est en cours de traitement.",
+    "success_message": "Paiement effectué avec succès !",
+    "failed_message": "Le paiement a échoué. Veuillez réessayer.",
+    "error_initiate": "Impossible d'initier le paiement",
+    "error_simulate": "La simulation a échoué",
+    "error_invoice": "La confirmation de la facture a échoué",
+    "status": {
+      "pending": "En attente",
+      "processing": "En traitement",
+      "succeeded": "Payé",
+      "failed": "Échoué",
+      "refunded": "Remboursé",
+      "cancelled": "Annulé",
+      "no_payment": "Non payé"
+    }
+  },
+  "summary": {
+    "title": "Récapitulatif",
+    "subtotal": "Sous-total",
+    "shipping": "Livraison",
+    "shipping_free": "Gratuit",
+    "discount": "Remise",
+    "total": "Total",
+    "place_order": "Commander",
+    "agree_terms": "J'accepte les CGV"
+  },
+  "confirmation": {
+    "title": "Commande passée!",
+    "subtitle": "Votre commande {{number}} a été enregistrée.",
+    "email_sent": "Une confirmation a été envoyée à {{email}}.",
+    "view_order": "Voir la commande",
+    "continue": "Continuer vos achats"
+  },
+  "errors": {
+    "place_order": "Impossible de passer la commande",
+    "no_address": "Veuillez sélectionner une adresse",
+    "no_payment": "Veuillez sélectionner un mode de paiement"
+  },
+  "actions": {
+    "next": "Suivant",
+    "back": "Retour"
+  }
+}

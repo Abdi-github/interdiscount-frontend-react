@@ -1,0 +1,13 @@
+{
+  "title": "Wishlist",
+  "empty": {
+    "title": "Your wishlist is empty",
+    "subtitle": "Save your favourite products for later.",
+    "cta": "Discover products"
+  },
+  "added": "Added to wishlist",
+  "removed": "Removed from wishlist",
+  "add": "Add to wishlist",
+  "count": "{{count}} items",
+  "count_items": "{{count}} items in your wishlist"
+}

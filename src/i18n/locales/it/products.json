@@ -1,0 +1,72 @@
+{
+  "detail": {
+    "description": "Descrizione",
+    "specifications": "Caratteristiche",
+    "reviews": "Recensioni",
+    "similar": "Prodotti simili",
+    "sku": "N. articolo: {{sku}}",
+    "brand": "Marchio: {{brand}}",
+    "code": "Art.",
+    "delivery": "Consegna",
+    "free_delivery": "Consegna gratuita",
+    "not_available": "Non disponibile",
+    "pickup": "Ritiro in filiale",
+    "rating": "Valutazione",
+    "related": "Prodotti correlati",
+    "specs": "Specifiche",
+    "delivery_tomorrow": "Consegna domani",
+    "click_collect_available": "Click & Collect disponibile nel tuo negozio",
+    "financing_from": "Da CHF",
+    "financing_month": "mese",
+    "financing_interest": "con finanziamento allo 0%",
+    "free_delivery_min": "da CHF 49",
+    "warranty_years": "2 anni",
+    "warranty": "Garanzia",
+    "vat_included": "IVA inclusa",
+    "article_number": "Art. n.:"
+  },
+  "availability": {
+    "in_stock": "Disponibile",
+    "out_of_stock": "Esaurito",
+    "low_stock": "Ultime unità",
+    "click_collect": "Disponibile in negozio",
+    "backorder": "Disponibile su ordinazione",
+    "ONORDER": "Disponibile su ordinazione",
+    "AVAILABLE": "Disponibile",
+    "DISCONTINUED": "Fuori produzione",
+    "LOW_STOCK": "Scorte basse",
+    "OUT_OF_STOCK": "Esaurito",
+    "PREORDER": "Pre-ordine"
+  },
+  "sort": {
+    "relevance": "Rilevanza",
+    "price_asc": "Prezzo crescente",
+    "price_desc": "Prezzo decrescente",
+    "newest": "Novità",
+    "rating": "Valutazione",
+    "label": "Ordina per",
+    "popular": "Più popolari"
+  },
+  "filter": {
+    "title": "Filtra",
+    "price_range": "Fascia di prezzo",
+    "brand": "Marchio",
+    "rating": "Valutazione",
+    "availability": "Disponibilità",
+    "clear": "Annulla filtri",
+    "apply": "Applica",
+    "in_store": "Solo Click & Collect",
+    "max_price": "Prezzo max",
+    "min_price": "Prezzo min",
+    "reset": "Reimposta"
+  },
+  "per_page": "per pagina",
+  "results_count": "{{count}} prodotto/i",
+  "product": "Prodotto",
+  "title": "Prodotti",
+  "loading": "Caricamento…",
+  "no_products": "Nessun prodotto trovato",
+  "card": {
+    "instead_of": "anziché"
+  }
+}

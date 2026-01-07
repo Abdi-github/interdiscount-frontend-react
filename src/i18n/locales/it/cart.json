@@ -1,0 +1,32 @@
+{
+  "title": "Carrello",
+  "empty": {
+    "title": "Il carrello è vuoto",
+    "subtitle": "Aggiungi prodotti al carrello.",
+    "action": "Continua gli acquisti",
+    "cta": "Sfoglia i prodotti"
+  },
+  "item_added": "Aggiunto al carrello",
+  "item_removed": "Rimosso dal carrello",
+  "subtotal": "Subtotale",
+  "shipping": "Spedizione",
+  "shipping_free": "Gratuita",
+  "free_shipping_hint": "Mancano {{amount}} per la spedizione gratuita!",
+  "total": "Totale",
+  "checkout": "Vai alla cassa",
+  "continue_shopping": "Continua gli acquisti",
+  "quantity": "Quantità",
+  "remove": "Rimuovi",
+  "count": "{{count}} articolo/i",
+  "errors": {
+    "add_failed": "Impossibile aggiungere al carrello",
+    "update_failed": "Impossibile aggiornare il carrello"
+  },
+  "view_cart": "Vedi carrello",
+  "added": "Prodotto aggiunto",
+  "drawer_title": "Carrello",
+  "item_count": "{{count}} articoli",
+  "item_count_one": "{{count}} articolo",
+  "removed": "Prodotto rimosso",
+  "updated": "Quantità aggiornata"
+}

@@ -1,0 +1,19 @@
+{
+  "title": "Notifications",
+  "mark_all_read": "Mark all as read",
+  "filter": {
+    "all": "All",
+    "unread": "Unread",
+    "read": "Read"
+  },
+  "empty": {
+    "title": "No notifications",
+    "subtitle": "Your notifications will appear here"
+  },
+  "time": {
+    "just_now": "Just now",
+    "minutes_ago": "{{count}} min ago",
+    "hours_ago": "{{count}} hr ago",
+    "days_ago": "{{count}} days ago"
+  }
+}
