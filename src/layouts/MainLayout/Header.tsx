@@ -24,44 +24,15 @@ import Container from '@mui/material/Container';
 import { useSnackbar } from 'notistack';
 import SearchAutocomplete from '@/features/search/components/SearchAutocomplete';
 
-/** Approximates the real Interdiscount logo */
+/** Interdiscount logo */
 function IDLogo() {
   return (
     <Box
       component={LocaleLink}
       to="/"
-      sx={{ display: 'flex', alignItems: 'center', textDecoration: 'none', flexShrink: 0, gap: 0.75 }}
+      sx={{ display: 'flex', alignItems: 'center', textDecoration: 'none', flexShrink: 0 }}
     >
-      {/* Red icon box */}
-      <Box
-        sx={{
-          bgcolor: 'primary.main',
-          color: 'white',
-          width: 36,
-          height: 36,
-          borderRadius: '7px',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'center',
-          fontWeight: 900,
-          fontSize: '1.4rem',
-          lineHeight: 1,
-          flexShrink: 0,
-        }}
-      >
-        <Typography component="span" sx={{ fontWeight: 900, fontSize: '1.3rem', color: 'white', lineHeight: 1 }}>
-          i
-        </Typography>
-      </Box>
-      {/* Text */}
-      <Box sx={{ display: 'flex', flexDirection: 'column', lineHeight: 1 }}>
-        <Typography component="span" sx={{ fontWeight: 800, color: '#1a1a1a', fontSize: '0.95rem', lineHeight: 1.1, letterSpacing: -0.3 }}>
-          Inter
-        </Typography>
-        <Typography component="span" sx={{ fontWeight: 800, color: '#1a1a1a', fontSize: '0.95rem', lineHeight: 1.1, letterSpacing: -0.3 }}>
-          Discount
-        </Typography>
-      </Box>
+      <Box component="img" src="/logo.svg" alt="Interdiscount" sx={{ height: 40 }} />
     </Box>
   );
 }

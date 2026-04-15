@@ -9,3 +9,6 @@ build/
 coverage/
 .vscode/
 .idea/
+
+# Production secrets (use .env.production.example as template)
+.env.production

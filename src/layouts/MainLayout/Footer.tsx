@@ -83,32 +83,7 @@ export default function Footer() {
         <Container maxWidth="lg">
           <Box sx={{ display: 'flex', alignItems: 'center', gap: 3, flexWrap: 'wrap' }}>
             {/* Logo */}
-            <Box sx={{ display: 'flex', alignItems: 'center', gap: 0.75 }}>
-              <Box
-                sx={{
-                  bgcolor: 'primary.main',
-                  color: 'white',
-                  width: 32,
-                  height: 32,
-                  borderRadius: '6px',
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  fontWeight: 900,
-                  fontSize: '1.2rem',
-                }}
-              >
-                i
-              </Box>
-              <Box>
-                <Typography sx={{ fontWeight: 800, color: 'white', fontSize: '0.85rem', lineHeight: 1.1 }}>
-                  Inter
-                </Typography>
-                <Typography sx={{ fontWeight: 800, color: 'white', fontSize: '0.85rem', lineHeight: 1.1 }}>
-                  Discount
-                </Typography>
-              </Box>
-            </Box>
+            <Box component="img" src="/logo.svg" alt="Interdiscount" sx={{ height: 36, filter: 'brightness(0) invert(1)' }} />
             <Button
               component={LocaleLink}
               to="/stores"

@@ -22,15 +22,12 @@ export default function AuthLayout() {
         component={LocaleLink}
         to="/"
         sx={{
+          display: 'block',
           textDecoration: 'none',
-          color: 'primary.main',
-          fontWeight: 800,
-          fontSize: '1.6rem',
           mb: 3,
-          letterSpacing: -0.5,
         }}
       >
-        interdiscount
+        <Box component="img" src="/logo.svg" alt="Interdiscount" sx={{ height: 44 }} />
       </Box>
       <Container maxWidth="xs">
         <Paper elevation={2} sx={{ p: 4, borderRadius: 2 }}>
